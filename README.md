@@ -1,5 +1,5 @@
 ---
-description: Introdução ao Projeto
+description: Introdução ao Projeto Stud.io
 ---
 
 # Prefácio
